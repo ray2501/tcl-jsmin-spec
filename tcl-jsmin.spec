@@ -7,7 +7,7 @@ Name:          tcl-jsmin
 Summary:       A Tcl JavaScript minifier
 Version:       1.0
 Release:       0
-License:       BSD 3-clause
+License:       BSD-3-Clause
 Group:         Development/Libraries/Tcl
 Source:        %{name}-%{version}.tar.gz
 URL:           https://github.com/flightaware/jsmin-tcl
